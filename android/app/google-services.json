@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772948532418",
+    "project_id": "magic-rewards-live",
+    "storage_bucket": "magic-rewards-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772948532418:android:70ec700ae93736ef546f5b",
+        "android_client_info": {
+          "package_name": "com.rewards.magic_rewards"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBguGG4V9Xd9k1TEumFt0E31tTzM8HhGtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
